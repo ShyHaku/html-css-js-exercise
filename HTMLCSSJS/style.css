@@ -1,0 +1,27 @@
+.mainPort{
+    margin: 100px 100px;
+}
+
+h1{
+    font-size: large;
+    text-align: center;
+}
+
+h5{
+    text-align: center;
+}
+
+img{
+    width: 50%;
+    height: inherit;
+}
+
+p{
+    text-align: center;
+}
+
+i{
+    font-size: 18px;
+    text-decoration: none; 
+    margin-left: auto;
+}

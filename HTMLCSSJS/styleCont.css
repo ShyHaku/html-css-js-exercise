@@ -1,0 +1,26 @@
+
+
+.card{
+    margin: 100px 100px;
+}
+
+p{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+a{
+    font-size: 18px;
+}
+
+.icon-link{
+    color: black;
+    text-decoration: none; 
+    margin: 0;
+
+}
+i{
+    font-size: 18px;
+    text-decoration: none; 
+    margin-left: auto;
+}
